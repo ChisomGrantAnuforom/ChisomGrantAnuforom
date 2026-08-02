@@ -41,11 +41,11 @@ Small projects exploring: C# patterns, React architecture, Cloud deployment, AI 
 2. Deploying production‑ready systems on Azure
 3. Strengthening React + React Native architecture patterns
 4. Improving cloud‑native .NET development
-5. Preparing for full‑stack engineering roles in Ireland
+5. Preparing for full‑stack engineering roles
 
 
 📈 My Goals
-1. Secure a full‑stack or cloud engineering role in Ireland
+1. Secure a full‑stack or cloud engineering role
 2. Build Edutots into a polished, production‑ready platform
 3. Contribute to open‑source educational tools
 4. Grow as an AI‑driven product engineer
