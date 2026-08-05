@@ -16,11 +16,7 @@ A modern school platform built with:
 Features: Attendance, messaging, timetable, results, file uploads, role‑based authentication
 👉 This is my flagship project — currently in active development.
 
-
-2. GranTube — AI‑Driven Learning Video Platform
-AI‑powered learning video system using: .NET Core, React, Azure, AI video tagging + summaries
-
-3. Utility & Experimentation Repos
+2. Utility & Experimentation Repos
 Small projects exploring: C# patterns, React architecture, Cloud deployment, AI integrations
 
 
